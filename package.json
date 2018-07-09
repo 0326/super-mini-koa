@@ -1,0 +1,25 @@
+{
+  "name": "super-mini-koa",
+  "version": "1.0.0",
+  "description": "super mini koa",
+  "main": "super-mini-koa.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0326/super-mini-koa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "0326",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0326/super-mini-koa/issues"
+  },
+  "homepage": "https://github.com/0326/super-mini-koa#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
