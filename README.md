@@ -97,6 +97,9 @@ module.exports = class Koa {
 }
 ```
 
+# FBI WARNING
+本仓库纯属娱乐学习，实战请用原装 Koa：https://github.com/koajs/koa
+
 # LICENSE
 [WTFPL](http://www.wtfpl.net/txt/copying/)
 
